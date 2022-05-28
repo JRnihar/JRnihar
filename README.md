@@ -5,7 +5,7 @@
 </div>
 
 
-## I'm Frontend || MERN Stack Developer!
+## I'm Frontend || MERN Stack Developer!<img align="left" alt="Visual Studio Code" width="80px" src="https://img.shields.io/badge/Resume-14171A?style=flat&logo=R&labelColor=212121" />
 I am front-end & full stack developer from Bangladesh.
 - 🔭 I’m currently working on Frontend Web Development!
 - 👯 I’m looking to collaborate on creating content!
@@ -57,7 +57,7 @@ National University,Bangladesh
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="left" alt="Visual Studio Code" width="50px" src="https://img.shields.io/badge/Resume-14171A?style=flat&logo=R&labelColor=212121" />
+<img align="left" alt="Visual Studio Code" width="80px" src="https://img.shields.io/badge/Resume-14171A?style=flat&logo=R&labelColor=212121" />
 
 
 
