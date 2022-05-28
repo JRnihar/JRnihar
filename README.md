@@ -33,7 +33,7 @@ National University,Bangladesh
 <h3 align="left">Connect with me:</h3>
 
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][https://www.linkedin.com/in/moinr/]
+[![[https://www.linkedin.com/in/moinr/](https://www.linkedin.com/in/moinr/)](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][]
 [![Drive Resume](https://img.shields.io/badge/Resume-14171A?style=flat&logo=R&labelColor=212121)][resume]
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)][medium]
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/edit/13958792)
