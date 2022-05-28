@@ -24,4 +24,4 @@ In The Growth Of The Organiza�on
 ## <sub>Programming-Hero| Programming Course</sub>
 
 Web Design Development Online Course <br/>
-| Instructor By Jhankar Mahbub Duration
+| <small>Instructor By Jhankar Mahbub Duration</small>
