@@ -35,25 +35,6 @@ Web Design Development Online Course <br/>
 National University,Bangladesh
 
 
-<h2 align="center">Visitor Count</h2>
-<p align="center">
-  <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/Rayhan0Islam0Shagor/count.svg" />
-</p>
-
-<p align="center">
-   <table>
-   <h1 align="center">🏆 Github Stats</h1>
-       <tr>
-       <td><img alt="JRnihar :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=JRnihar&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="JRnihar :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRnihar&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
-     </tr>
-     <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JRnihar&theme=blue-green&hide_border=true"></td>
-     </tr>
-   </table>
-</p>
-
-
 
 <h3 align="left">### Contact with me:</h3>
 
@@ -80,6 +61,29 @@ National University,Bangladesh
 <img align="left" alt="MongoDB" width="26px" src="https://i.ibb.co/fqbTYyf/pngkit-ifunny-watermark-png-2254691.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/f13T02P/pngkey-com-github-icon-png-1787508.png" />
+
+
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/Rayhan0Islam0Shagor/count.svg" />
+</p>
+
+<p align="center">
+   <table>
+   <h1 align="center">🏆 Github Stats</h1>
+       <tr>
+       <td><img alt="JRnihar :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=JRnihar&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="JRnihar :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRnihar&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+     </tr>
+     <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JRnihar&theme=blue-green&hide_border=true"></td>
+     </tr>
+   </table>
+</p>
+
+
+
+
 
 
 
