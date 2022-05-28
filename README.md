@@ -40,6 +40,8 @@ National University,Bangladesh
 
 <img align="left" alt="Visual Studio Code" width="80px" src="https://img.shields.io/badge/Resume-14171A?style=flat&logo=R&labelColor=212121" />
 
+<img align="left" alt="Visual Studio Code" width="80px" src="https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff" />
+
 
 
 <br/>
