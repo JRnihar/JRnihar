@@ -38,4 +38,4 @@ National University,Bangladesh
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Monirul ISlam=anuraghazra)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/JRnihar))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Monir=anuraghazra)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/JRnihar))
