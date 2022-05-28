@@ -52,11 +52,14 @@ National University,Bangladesh
 
 
 <h3 align="left">Connect with me:</h3>
-[![https://www.linkedin.com/in/moinr/](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][https://www.linkedin.com/in/moinr/]
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
 [![Drive Resume](https://img.shields.io/badge/Resume-14171A?style=flat&logo=R&labelColor=212121)][resume]
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)]
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)][medium]
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/edit/13958792)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)]
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)][facebook]
+[![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=fff&logo=instagram&logoColor=9E32AD)][instagram]
+[![Youtube subscribe](https://img.shields.io:/youtube/channel/subscribers/UCCwRAqBwssrPj-1mcZA7KsQ?style=social)][youtube]
+[![Twitter](https://img.shields.io:/twitter/follow/morshedulmunna?style=social)][twitter]
 
 
 
@@ -78,19 +81,7 @@ National University,Bangladesh
 
 
 
-</br>
-</br>
-</br>
-</br>
 
-
-
-[website]: https://morshedulmunna.netlify.app/
-
-[linkedin]: https://www.linkedin.com/in/morshedulmunna/
-[github]: https://github.com/morshedulmunna
-[facebook]: https://www.facebook.com/morshedulmunna.script
-[resume]: https://drive.google.com/file/d/1L3BlSUHNeQA2XkQeU50-WLnwnjEMtxhU
 
 
 
