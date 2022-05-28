@@ -10,14 +10,14 @@ I am front-end & full stack developer from Bangladesh.
 
 
 ## Career Objective :
-I am A Dedicated And Prac�cing Full
+I am A Dedicated And Practicing Full
 Stack Development With Solid
 Knowledge In Different Technologies
-|And Self-mo�vated And Hardworking
+|And Self-motivated And Hardworking
 For An Opportunity To Work In A
 Challenging Environment To Prove
-My Skills And U�lize My Knowledge
-In The Growth Of The Organiza�on
+My Skills And Utilize My Knowledge
+In The Growth Of The Organization
 
 
 ## Professional Qualification :
@@ -25,3 +25,6 @@ In The Growth Of The Organiza�on
 
 Web Design Development Online Course <br/>
 | <small>Instructor By Jhankar Mahbub Duration</small>
+
+## Educational Qualification :
+### Bachelor of Computer Science Engineering
