@@ -39,3 +39,5 @@ National University,Bangladesh
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JRnihar=anuraghazra)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/JRnihar))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JRnihar=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JRnihar=anuraghazra&show_icons=true&theme=radical)
