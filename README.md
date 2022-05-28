@@ -55,12 +55,16 @@ National University,Bangladesh
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">### Contact with me:</h3>
 
 <img align="left" alt="Visual Studio Code" width="80px" src="https://img.shields.io/badge/Resume-14171A?style=flat&logo=R&labelColor=212121" />
 
 
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
