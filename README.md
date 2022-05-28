@@ -10,12 +10,15 @@ I am front-end & full stack developer from Bangladesh.
 
 
 ## Career Objective :
-
-<p>I am A Dedicated And Practing Full
+I am A Dedicated And Prac�cing Full
 Stack Development With Solid
 Knowledge In Different Technologies
-And Self-motivated And Hardworking
+And Self-mo�vated And Hardworking
 For An Opportunity To Work In A
 Challenging Environment To Prove
-My Skills And Utilize My Knowledge
-In The Growth Of The Organization</p>
+My Skills And U�lize My Knowledge
+In The Growth Of The Organiza�on
+
+
+## Professional Qualification :
+<sub>##Programming-Hero| Programming Course</sub>
