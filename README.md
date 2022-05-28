@@ -21,10 +21,12 @@ In The Growth Of The Organization
 
 
 ## Professional Qualification :
-## <sub>Programming-Hero| Programming Course</sub>
+### <sub>Programming-Hero| Programming Course</sub>
 
 Web Design Development Online Course <br/>
 | <small>Instructor By Jhankar Mahbub Duration</small>
 
 ## Educational Qualification :
-### Bachelor of Computer Science Engineering
+
+### Natinal university
+Becholer of Arts(B.A)
