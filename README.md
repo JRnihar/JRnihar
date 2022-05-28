@@ -28,4 +28,4 @@ Web Design Development Online Course <br/>
 
 ## Educational Qualification
 ### Becholer of Arts(B.A)
-National University
+National University,Bangladesh
