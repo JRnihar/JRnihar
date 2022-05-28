@@ -26,7 +26,6 @@ In The Growth Of The Organization
 Web Design Development Online Course <br/>
 | <small>Instructor By Jhankar Mahbub Duration</small>
 
-## Educational Qualification :
-
-### Natinal university
-Becholer of Arts(B.A)
+## Educational Qualification
+### Becholer of Arts(B.A)
+National University
