@@ -39,22 +39,10 @@ National University,Bangladesh
 
 ## Contact Info :
 
-<img align="left" alt="Visual Studio Code" width="80px" src="https://img.shields.io/badge/Resume-14171A?style=flat&logo=R&labelColor=212121" />
-
-<img align="left" alt="Visual Studio Code" width="80px" src="https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff" />
-
-<img align="left" alt="Visual Studio Code" width="80px" src="https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff" />
-
-
-
-
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
 [![Drive Resume](https://img.shields.io/badge/Resume-14171A?style=flat&logo=R&labelColor=212121)][resume]
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)][medium]
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/edit/13958792)
-[![Youtube subscribe](https://img.shields.io:/youtube/channel/subscribers/UCCwRAqBwssrPj-1mcZA7KsQ?style=social)][youtube]
-[![Twitter](https://img.shields.io:/twitter/follow/morshedulmunna?style=social)][twitter]
+
 
 
 <br/>
@@ -102,12 +90,11 @@ National University,Bangladesh
 
 
 
-[linkedin]: https://www.linkedin.com/in/morshedulmunna/
-[github]: https://github.com/morshedulmunna
-[resume]: https://drive.google.com/file/d/1yBOA4JOX4VAN7brg3uaN_Mt4EoJ9N5e5
-[medium]: https://www.quora.com/profile/Morshedul-Munna
-[youtube]: https://www.youtube.com/channel/UCCwRAqBwssrPj-1mcZA7KsQ
-[twitter]: https://twitter.com/morshedulmunna
+[linkedin]: https://www.linkedin.com/in/moinr/
+
+[resume]: https://drive.google.com/file/d/1TDrYqd3DuFrEaIzH0tv-4W2Po1E3eyzX/view
+
+
 
 
 
