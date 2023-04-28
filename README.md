@@ -5,7 +5,7 @@
 </div>
 
 
-## I'm Frontend || MERN Stack Developer!   [![Download Resume](https://png.pngitem.com/pimgs/s/484-4847096_set-as-resume-icon-circle-hd-png-download.png)][resume]
+## I'm Frontend || MERN Stack Developer!   [![Drive Resume](https://img.shields.io/badge/Resume-14171A?style=flat&logo=R&labelColor=212121)][resume]
 I am front-end & full stack developer from Bangladesh.
 - 🔭 I’m currently working on Frontend Web Development!
 - 👯 I’m looking to collaborate on creating content!
